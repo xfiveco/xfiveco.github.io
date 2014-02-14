@@ -1,0 +1,11 @@
+{
+  "name": "xhtmlized.github.io",
+  "version": "0.1.0",
+  "description": "XHTMLized GitHub Organization Page",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-contrib-sass": "~0.7.2",
+    "grunt-contrib-compass": "~0.7.2",
+    "grunt-contrib-watch": "~0.5.3"
+  }
+}

@@ -27,3 +27,8 @@ nbproject
 # Folders to ignore
 node_modules
 bower_components
+
+# Sass related
+.sass-cache
+.ruby-version
+.ruby-gemset
